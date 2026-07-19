@@ -1,5 +1,5 @@
 # TODO
-To do application
+To do application 
 # Simple TODO App
 
 Small single-page TODO application built with HTML, CSS and JavaScript.
